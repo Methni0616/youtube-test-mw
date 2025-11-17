@@ -1,2 +1,2 @@
 # youtube-test-mw
-for lerni upose 
+for leni upose 
