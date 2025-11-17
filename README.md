@@ -1,2 +1,2 @@
 # youtube-test-mw
-for learning purpose 
+for learning urpose 
