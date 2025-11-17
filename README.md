@@ -1,2 +1,2 @@
 # youtube-test-mw
-for learning urpose 
+for learnig urpose 
