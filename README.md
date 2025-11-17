@@ -1,2 +1,2 @@
 # youtube-test-mw
-for lni upose 
+for learning purposes 
